@@ -63,7 +63,7 @@ public class TicketServiceTest {
 	
 	/**
 	 * Test with passing SeatHoldId which doesnot exist database
-	 * This is test for simulating the case the SeatHold is expired and deleted already
+	 * This test is to simulating the case where the SeatHold has expired and deleted already
 	 * It should throw SeatHoldNotFoundException
 	 */
 	@Test(expected=SeatHoldNotFoundException.class)
