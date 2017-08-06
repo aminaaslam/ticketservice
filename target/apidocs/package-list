@@ -1,0 +1,6 @@
+org.amina.ticketservice
+org.amina.ticketservice.entity
+org.amina.ticketservice.exceptions
+org.amina.ticketservice.repository
+org.amina.ticketservice.services
+org.amina.ticketservice.utils
