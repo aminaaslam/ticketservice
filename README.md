@@ -6,7 +6,7 @@ cd gs-rest-ticket-service
 mvn clean compile package 
 After running these steps user should see following output on the screen to ensure application ran successfully. 
 [INFO] ------------------------------------------------------------------------ [INFO]
-      BUILD SUCCESS 
- [INFO] ------------------------------------------------------------------------ 
- Results : Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
+                              BUILD SUCCESS 
+[INFO] ------------------------------------------------------------------------ 
+Results : Tests run: 5, Failures: 0, Errors: 0, Skipped: 0
 
